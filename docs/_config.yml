@@ -23,13 +23,13 @@ minima:
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
     - { platform: youtube,        user_url: "https://www.youtube.com/@flameit" }
-title: Immersion Cooling
-author:
-  name: FlameIT - Immersion Cooling
+  title: Immersion Cooling
+  author:
+    name: FlameIT - Immersion Cooling
   
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Immersion Cooling site description
+  FlameIT - Immersion Cooling leading provider of cutting-edge immersion cooling solutions for electronic devices.
 
 google_analytics: G-BRTHV5SMK6
