@@ -2,6 +2,14 @@ title: Immersion Cooling Title
 # author:
 #   name: Paweł 'felixd' Wojciechowski
 #   email: 
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  FlameIT - Immersion Cooling leading provider of cutting-edge immersion cooling solutions for electronic devices.
+
+google_analytics: G-BRTHV5SMK6
+
 url: "https://immersioncooling.it"
 plugins:
   - jekyll-sitemap
@@ -17,10 +25,3 @@ minima:
     - { platform: instagram,      user_url: "https://www.instagram.com/" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/company/flameit/" }
     - { platform: youtube,        user_url: "https://www.youtube.com/@flameit" }
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  FlameIT - Immersion Cooling leading provider of cutting-edge immersion cooling solutions for electronic devices.
-
-google_analytics: G-BRTHV5SMK6
