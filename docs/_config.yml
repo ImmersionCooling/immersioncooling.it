@@ -2,3 +2,6 @@ url: "https://immersioncooling.it"
 plugins:
   - jekyll-sitemap
 theme: minima
+minima:
+  skin: dark
+  
