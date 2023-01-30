@@ -1,4 +1,4 @@
-# Immersion Cooling
+# Immersion Cooling README
 
 https://immersioncooling.it
 
