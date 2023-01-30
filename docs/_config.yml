@@ -23,10 +23,10 @@ minima:
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
     - { platform: youtube,        user_url: "https://www.youtube.com/@flameit" }
-  title: Immersion Cooling
-  author:
-    name: FlameIT - Immersion Cooling
-    email: 
+title: Immersion Cooling
+author:
+  name: FlameIT - Immersion Cooling
+  email: 
   
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
