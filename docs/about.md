@@ -1,3 +1,5 @@
-# About us
-
-About us webpage.
+---
+layout: default
+title: About Immersion Cooling
+---
+# About Immersion Cooling
