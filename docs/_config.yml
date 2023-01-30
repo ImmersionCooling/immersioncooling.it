@@ -8,7 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-theme: minima
+# theme: minima
 minima:
   skin: dark
   social_links:
